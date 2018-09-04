@@ -14,7 +14,8 @@
 
 ## Tools
 - [CIPHER](https://www.cipherbrowser.com/) : mobile dapp browser and wallet for the Ethereum blockchain 
-  
+- [Token Factory](http://tokenfactory.netlify.com)
+
    
 
 ## Ressources
