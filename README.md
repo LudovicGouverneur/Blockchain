@@ -16,7 +16,7 @@
 ## Ressources
 - Book : "d'autres monnaies pour une nouvelle prospérité", 
   - Christophe FOUREL
-  - Jean-Phillipe Magnen 
+  - Jean-Phillipe MAGNEN 
   - Nicolas MEUNIER
 
 
