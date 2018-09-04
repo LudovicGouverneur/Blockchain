@@ -1,6 +1,5 @@
 # Practical guide to build a crypto-currency based local economy
 
-
 ## Technological Aspects
 
 ## Economics parameters
