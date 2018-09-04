@@ -1,7 +1,9 @@
 # Overview
 
-## Udemy
+## Learning
 
-## Crypto-Zombie
+### Udemy
+### Crypto-Zombie
 
-## DigitYserCoin
+## Projects
+### DigitYserCoin
