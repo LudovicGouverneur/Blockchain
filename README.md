@@ -1,4 +1,7 @@
-# Practical guide to build a crypto-currency based local economy
+# Build A crypto-currency based local economy
+
+## Calendar
+- [04/09/18 : First session]()
 
 ## Technological Aspects
 
