@@ -2,7 +2,7 @@
 # Build A crypto-currency based local economy
 
 ## Calendar
-- [04/09/18 : First session]()
+- [04/09/18 : First session](Blockchain/Projects/2018_09_04 - Kick-off)
 
 ## Technological Aspects
 
