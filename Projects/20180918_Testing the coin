@@ -24,8 +24,8 @@
     - Build the coin
 
 ##  Chekclist
-  - QR code : contract, bar
-  - Deploy it on ropsten
-  - Function destroy
-  - DigiToke
-  - Gaz?
+  - QR code : contract, bar => Ludo
+  - Deploy it on ropsten : problem with gaz
+  - Name : DigitCoin
+  - Function burn : to be done
+ 
