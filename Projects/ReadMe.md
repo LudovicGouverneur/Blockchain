@@ -1,4 +1,4 @@
-# Digityser Coin : workshop #2 -20180918
+# Digityser Coin
 
 Digityser is building its own cryptocurrency: The DigiCoin (Symbol: DIGIC) !
 
