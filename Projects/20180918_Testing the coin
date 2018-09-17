@@ -24,7 +24,7 @@
     - Build the coin
 
 ##  Chekclist
-  - QR code : contract, bank, bar
+  - QR code : contract, bar
   - Deploy it on ropsten
   - Function destroy
   - DigiToke
