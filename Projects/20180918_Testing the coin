@@ -7,7 +7,7 @@
   - Download an ERC20 wallet. Recommanded mobile app : Cipher browser [https://www.cipherbrowser.com/]
   - Create a new wallet (could take few minutes):
       - Write the 12 words carefully
-      - select you pin code
+      - select your pin code
   - Change network : select Ropsten
   - Add token : scan the QR code of the contract
   - Go to the bank to buy coin
