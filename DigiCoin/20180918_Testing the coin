@@ -7,10 +7,11 @@
   - Create a new wallet (could take few minutes):
       - Write the 12 words carefully
       - select your pin code
-  - Change network : select Ropsten
-  - Add token : scan the QR code of the contract
+  - Change network : in the app, select Ropsten test network (not wifi)
+  - Add token : scan the QR code of the contract - DIGIC
   - Go to the bank to buy coin
   - Go to the bar : one beer = 1.5 Digitcoin instead
+  - 0xc2cf772a5FA04A47A28fA4e903afF42a128D60aD - DIGIC
    
  ## The kind of players - Three kind of players : 
     - The bank/owner => mint and transfer (DIGIC and ETH)
