@@ -10,15 +10,35 @@ This repository contains the code for the current (DIGIC02) and past versions of
 
 Come and join us at our meet-ups at Digityser to further develop the currency!
 
+## Calendar
+- 04/09/18 : workshop 1 => kick off (Philippe Van Impe/ Jean Walmack)
+- 18/09/18 : workshop 2 => Let's play with the Digicoin (Yann and Ludo)
+- 02/10/18 : workshop 3 => ?
 
-## 04/09/18 - workshop #1
+## Currency design/currency
+- Local => for communities/individual/business linked to digityser
+- Eur/DIGIC Constant converstion rate : 1/1
+- Ledger supported by blockchain technology
 
-## 18/09/18 - workshop #2
+## Technological
+- Blockchain : Ethereum
+- Network : Ropsten (test net) : https://ethereum.stackexchange.com/questions/27048/comparison-of-the-different-testnets
+- Smarcontract : ERC20
+## Examples
+- Local currency (non crypto) : [Zinne](https://www.financite.be/fr/event/rejoignez-le-collectif-de-la-zinne-la-monnaie-citoyenne-bruxelloise)
+- Val'heureux (Liège)
+- ...
 
-## Additional ressources
-
-### Learn smart contract coding
-
+## Tools
+- [CIPHER](https://www.cipherbrowser.com/) : mobile dapp browser and wallet for the Ethereum blockchain 
+- [Token Factory](http://tokenfactory.netlify.com)
+- [Remix](https://remix.ethereum.org/#optimize=false) : to build/test/deploy a smartcontract
 - [udemy : S. Arbogast ](https://www.udemy.com/user/sebastienarbogast3/)
-- 
+   
+## Ressources
+
+- Books : "d'autres monnaies pour une nouvelle prospérité", 
+  - Christophe FOUREL
+  - Jean-Phillipe MAGNEN 
+  - Nicolas MEUNIER
 
