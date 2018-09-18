@@ -17,4 +17,8 @@ Come and join us at our meet-ups at Digityser to further develop the currency!
 
 ## Additional ressources
 
-###
+### Learn smart contract coding
+
+- [udemy : S. Arbogast ](https://www.udemy.com/user/sebastienarbogast3/)
+- 
+
