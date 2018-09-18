@@ -1,8 +1,7 @@
-# Testing
+# Let's experiment local economy supported buy a blockchain ledger
 
 
-
-## Instruction for testers : 
+## Get ready : 
 
   - Download an ERC20 wallet. Recommanded mobile app : Cipher browser [https://www.cipherbrowser.com/]
   - Create a new wallet (could take few minutes):
@@ -14,9 +13,9 @@
   - Go to the bar : one beer = 1.5 Digitcoin instead
    
  ## The kind of players - Three kind of players : 
-    - The consumme
-    - The bank
-    - The bar
+    - The bank/owner => mint and transfer (DIGIC and ETH)
+    - The consumme => transfer
+    - The bar => transfer
     
 ## What has been done upstream
     - Hypothesis : we descentralize the economy, we centralize the decision.
